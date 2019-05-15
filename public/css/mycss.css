@@ -1,0 +1,13 @@
+#insert{
+    position:relative;
+    left:50px;
+    top:10px;
+    color:blue;
+}
+
+#show{
+    position:absolute;
+    left:850px;
+    top:10px;
+    color:red;
+}
